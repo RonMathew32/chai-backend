@@ -1,0 +1,20 @@
+{
+  "name": "chai-backend",
+  "version": "1.0.0",
+  "description": "Learning from chai aur code - youtube",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "nodejs"
+  ],
+  "author": "Ron Mathew",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
